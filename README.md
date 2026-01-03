@@ -70,6 +70,9 @@ The dashboard is organized into four analytical views:
 
 <img width="1227" height="687" alt="Print - Visão de Padrões de Compra por Ponto de Venda" src="https://github.com/user-attachments/assets/92ef8fc5-66cb-48d9-ab60-0eb654015c7e" />
 
+For a detailed explanation of the visualization rationale, see:
+
+📄 docs/data-visualization-rationale.md
 ---
 
 ### Tools and Technologies
