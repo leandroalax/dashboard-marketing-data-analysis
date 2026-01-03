@@ -116,5 +116,6 @@ The datasets used in this project were provided exclusively for educational purp
 
 **Leandro Álax**
 Data Analytics | Business Intelligence | Power BI
+
 For professional inquiries or collaboration opportunities,
 leandroalax@hotmail.com
