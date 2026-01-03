@@ -92,7 +92,7 @@ Este documento descreve o racional por trás da escolha de cada visualização u
 
 **Objetivo:** Análise detalhada por segmentação.
 
-**Racional:** Tabelas garantem precisão analítica, enquanto gráficos de barras facilitam a interpretação visual das diferenças de renda entre clientes que compraram e não compraram.
+**Racional:** Matrizes garantem precisão analítica, enquanto gráficos de barras facilitam a interpretação visual das diferenças de renda entre clientes que compraram e não compraram.
 
 ---
 
