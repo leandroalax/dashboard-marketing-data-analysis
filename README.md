@@ -72,7 +72,7 @@ The dashboard is organized into four analytical views:
 
 For a detailed explanation of the visualization rationale, see:
 
-📄 docs/data-visualization-rationale.md
+📄 **[Data Visualization Rationale](docs/data-visualization-rationale.md)**
 ---
 
 ### Tools and Technologies
