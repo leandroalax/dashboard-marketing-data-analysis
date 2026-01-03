@@ -51,10 +51,20 @@ Também foi realizada a padronização da feature **"Comprou"**, substituindo os
 O dashboard está organizado em quatro visões analíticas:
 
 1. **Visão Cliente** – Perfil demográfico e canais de compra.
-2. **Visão Comportamento de Compra** – Relação entre renda, composição familiar e gasto total.
-3. **Visão de Padrões de Compra por Ponto de Venda** – Distribuição de gastos por país, categoria e tempo.
-4. **Visão da Performance das Campanhas de Marketing** – Análise de efetividade e resposta dos clientes.
+<img width="1231" height="698" alt="Print - Visão Cliente" src="https://github.com/user-attachments/assets/87d42efc-ce82-4d96-a977-a5bbc4596fc7" />
 
+2. **Visão Comportamento de Compra** – Relação entre renda, composição familiar e gasto total.
+<img width="1233" height="687" alt="Print - Visão Comportamento de Compra do Cliente" src="https://github.com/user-attachments/assets/da57be01-4ce6-40b1-9a7a-4b22b0887e11" />
+
+3. **Visão da Performance das Campanhas de Marketing** – Análise de efetividade e resposta dos clientes.
+<img width="1230" height="687" alt="Print - Visão Performance das Campanhas de Marketing" src="https://github.com/user-attachments/assets/efe9b0ce-3072-40fe-8862-18cf09a2ebe5" />
+
+4. **Visão de Padrões de Compra por Ponto de Venda** – Distribuição de gastos por país, categoria e tempo.
+<img width="1227" height="687" alt="Print - Visão de Padrões de Compra por Ponto de Venda" src="https://github.com/user-attachments/assets/4e177e4a-ef95-4a5d-bbe7-457a3d87bbef" />
+
+
+Para uma explicação detalhada da lógica das visualizações, consulte:  
+📄 [Lógica de Visualização de Dados](docs/visualizacao-dados-racional.md)
 ---
 
 ### Ferramentas Utilizadas
